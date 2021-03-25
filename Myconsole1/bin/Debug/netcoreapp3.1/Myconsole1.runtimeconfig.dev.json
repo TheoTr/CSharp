@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ThéoTROUVE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ThéoTROUVE\\.nuget\\packages"
+    ]
+  }
+}
